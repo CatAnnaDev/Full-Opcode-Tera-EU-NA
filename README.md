@@ -1,4 +1,4 @@
 # How to install 
-Proxy/Data/opcodes <br>
+extract all files in > Proxy/Data/opcodes <br>
 restart proxy <br>
 enjoy :D
